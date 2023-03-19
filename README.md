@@ -1,3 +1,9 @@
+# UNMAINTAINED
+
+Things _should_ work, but things may also have changed in DigitalOcean,
+Terraform, Helm, or Nautobot itself.  I'm archiving the project, but
+feel free to use it as-is or for inspiration.
+
 # Deploy DigitalOcean Infrastructure
 
 This repository includes configuration for a minimal Kubernetes cluster
